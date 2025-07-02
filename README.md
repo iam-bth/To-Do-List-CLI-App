@@ -11,6 +11,7 @@ This project lets users manage tasks from the terminal — view your list, you c
 - 📌 Add new tasks
 - 📋 View all tasks (completed & pending)
 - ✅ Mark tasks as completed
+- ❌ Delete tasks
 - 💾 Save tasks to a JSON file
 - 📂 Automatically reloads saved tasks at startup
 - 🖥️ Built to run entirely in the command-line (CLI)
@@ -64,5 +65,5 @@ It’s great for practicing:
 ---
 
 ## 👤 Author
-   Bhuvan T H
-📎 GitHub: @iam-bth
+Bhuvan T H
+GitHub: @iam-bth
