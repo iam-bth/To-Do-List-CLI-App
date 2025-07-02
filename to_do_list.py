@@ -14,7 +14,7 @@ def load_tasks():
     else:
         return []
     
-#Empty task
+#Stores task
 tasks = load_tasks()
 
 #defining function to show menu
